@@ -1,0 +1,2 @@
+# Bookmap Cloud Notes CSVs must stay CRLF. Do not let Git convert line endings.
+*.csv -text

@@ -1,0 +1,8 @@
+out/per_symbol/
+out/levels_report.json
+out/levels_summary.txt
+out/*.csv
+out/*.csv.gz
+out/*.tmp
+__pycache__/
+.DS_Store
